@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.bgContainer {
+  background-image: linear-gradient(to right, #fa7257, #fc63a7, #dd1264);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.tittle {
+  color: #ffffff;
+  font-weight: bold;
+}
+.button1 {
+  margin: 20px;
+  background-color: #ffffff;
+  color: #dd1264;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 10px;
+}
+.nameContainer {
+  display: flex;
+}
+
+.name1 {
+  background-color: #fddddb;
+  padding: 20px;
+  margin-right: 20px;
+  color: #222222;
+  border-radius: 10px;
+}
+.name2 {
+  background-color: #fddddb;
+  padding: 20px;
+  margin-left: 70px;
+  color: #222222;
+  border-radius: 10px;
+}
+
